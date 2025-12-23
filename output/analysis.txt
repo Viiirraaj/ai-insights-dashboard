@@ -1,0 +1,8 @@
+
+Average Orders: 43.0
+Average Revenue: 9098.1
+Total Revenue: 109177
+Max Orders: 60
+Min Orders: 21
+Order Trend: upward
+Anomalies Detected: 0
