@@ -11,7 +11,7 @@ from io import BytesIO
 st.set_page_config(page_title="AI Insights Dashboard", layout="wide")
 st.title("📊 AI Insights Dashboard (Decision Support)")
 
-genai.configure(api_key="AIzaSyBxtzdbS1fXXp-7qu5__F4y-yJsW1gmHR0")
+genai.configure(api_key="YOUR GEMINI API KEY")
 model = genai.GenerativeModel("models/gemini-2.5-flash")
 
 # ---------------- FILE UPLOAD ----------------
